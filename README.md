@@ -1,7 +1,8 @@
+
 <<<<<<< HEAD
 <div align="center">
+<img width="828" height="466" alt="Group 12" src="https://github.com/user-attachments/assets/649ab6ca-a2b5-4aca-af51-cb9ae11c2920" />
 
-<img src="https://33uee5uclf.ufs.sh/f/fa600f97-6cf2-4759-8641-3093d13591bf-6rrk6b.png" alt="Resonance" width="720" />
 
 <br />
 <br />
